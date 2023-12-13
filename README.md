@@ -1,9 +1,7 @@
 # Demo Max Cut Problem using Dwave Quantum Annealer
-> My first try with quantum annealing...
-
-> This code clone code from https://github.com/dwave-examples/maximum-cut
-
-> Need to get API token from Dwave Leap to run this code
+> My first try with quantum annealing...</br>
+> This code clone code from https://github.com/dwave-examples/maximum-cut</br>
+> Need to get API token from Dwave Leap to run this code</br>
 
 ## How to get an API token 
 
